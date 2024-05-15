@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0px;
+}
+.col-md-2{
+    background-color:rgb(88, 6, 165);
+    height: 100vh;
+}
+.col-md-2 li{
+    list-style: none;
+    padding: 25px;
+}
+.borders{
+    background-color: rgba(255, 255, 255, 0.356);
+    border:none;
+    border-radius: 10px;
+}
+.last{
+    margin-top: 190px;
+}
+.c11{
+    height: 70px;
+    width: vw;
+    display:flex;
+    justify-content: space-around;
+    
+}
+.t{
+ margin-top: 10px;
+}
